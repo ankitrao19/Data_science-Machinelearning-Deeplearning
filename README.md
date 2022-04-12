@@ -8,3 +8,4 @@ Repository containing portfolio of data science and machine learning projects co
 1. Install dependencies using [requirements.txt](/requirements.txt)
 2. Run notebooks as usual by using anaconda, colab, Vscode etc.
 
+## Contents
