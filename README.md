@@ -29,7 +29,7 @@ Repository containing portfolio of Data science machine learning, Natural Langua
 
 * ## NLP
   - [Consumer Complaint Classification](/Customer_complain/Copy%20of%20consumer_complaint1.ipynb): Bank receives a lot of complaint in this model I tried to classify the complaints into three main categories. I used RNN artituctre which I built from scratch and then passed the data through that and classified them into various categories before that I cleaned the data through various steps of NLP cleaning, such as removing unwanted symbols followed by STOPWORDS removal, Creating word cloud for better visualization of the words, then came tokenizing the words in the dataset followed by word embedding.
-  - [Upcoming NLP Projects](Data_science-Machinelearning-Deeplearning/NLP/tools_used.txt): Topic will be updated by 15th June 2022.
+  - [Upcoming NLP Projects](Data_science-Machinelearning-Deeplearning/NLP/tools_used.txt): Pairing similar questions on Quora. The project will be updated on Git by mid of July.
 
 * ## Computer Vision
-  - [
+  - Object detection Project Coming next week.
